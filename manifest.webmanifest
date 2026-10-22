@@ -1,0 +1,17 @@
+{
+  "name": "House of Judah Church",
+  "short_name": "House of Judah",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100f20",
+  "theme_color": "#17132c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
